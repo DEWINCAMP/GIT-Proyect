@@ -1,0 +1,32 @@
+Acerca de GitHub y Git
+Puedes utilizar GitHub y Git para colaborar en el trabajo.
+
+En este artículo
+Acerca de GitHub
+Acerca de Git
+¿Dónde empiezo?
+Pasos siguientes
+Información adicional
+Acerca de GitHub
+GitHub es una plataforma donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código.
+
+Almacenar tu código en un "repositorio" en GitHub te permite:
+
+Presentar o compartir el trabajo.
+Seguir y administrar los cambios en el código a lo largo del tiempo.
+Dejar que otros usuarios revisen el código y realicen sugerencias para mejorarlo.
+Colaborar en un proyecto compartido, sin preocuparse de que los cambios afectarán al trabajo de los colaboradores antes de que esté listo para integrarlos.
+El trabajo colaborativo, una de las características fundamentales de GitHub, es posible gracias al software de código abierto Git, en el que se basa GitHub.
+
+Acerca de Git
+Git es un sistema de control de versiones que realiza un seguimiento de los cambios en los archivos. Git es especialmente útil cuando un grupo de personas y tú estáis haciendo cambios en los mismos archivos al mismo tiempo.
+
+Normalmente, para hacerlo en un flujo de trabajo basado en Git, harías lo siguiente:
+
+Crear una rama a partir de la copia principal de archivos en los que tú (y tus colaboradores) estáis trabajando.
+Realizar modificaciones en los archivos de forma independiente y segura en tu propia rama personal.
+Dejar que Git fusione mediante combinación y de forma inteligente los cambios específicos en la copia principal de archivos, de modo que los cambios no afecten a las actualizaciones de otras personas.
+Dejar que Git realice un seguimiento de tus cambios y los de otras personas, por lo que todos siguen trabajando en la versión más actualizada del proyecto.
+Si quieres obtener más información sobre Git, consulta "Acerca de Git".
+
+¿Cómo funcionan Git y GitHub juntos?

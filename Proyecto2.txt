@@ -1,0 +1,24 @@
+Comandos
+git add
+Mueve los cambios del directorio de trabajo al área del entorno de ensayo. Así puedes preparar una instantánea antes de confirmar en el historial oficial.
+
+Tutoriales relacionados
+Guardar cambios: git add
+Aprende Git con Bitbucket Cloud: Copia tu repositorio de Git y añade los archivos
+Usar ramas: git merge
+Inspección de un repositorio: git status
+rama de git
+Este comando es tu herramienta de administración de ramas de uso general. Permite crear entornos de desarrollo aislados en un solo repositorio.
+
+Tutoriales relacionados
+Usar ramas: git branch
+Usar ramas: git checkout
+Usar ramas: git merge
+Aprende Git con Bitbucket Cloud: Usa una rama de Git para fusionar un archivo
+Git Checkout
+Además de extraer las confirmaciones y las revisiones de archivos antiguas, git checkout también sirve para navegar por las ramas existentes. Combinado con los comandos básicos de Git, es una forma de trabajar en una línea de desarrollo concreta.
+
+Tutoriales relacionados
+Usar ramas: git checkout
+Deshacer cambios: git checkout
+Comparar flujos de trabajo: Flujo de trabajo de Gitflow
